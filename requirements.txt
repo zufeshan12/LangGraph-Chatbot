@@ -34,3 +34,6 @@ pydantic
 
 # langgraph
 langgraph
+
+# LangGraph checkpointer using a SQLite database for persistence
+langgraph-checkpoint-sqlite
