@@ -1,3 +1,4 @@
 venv
 .env
+chatbot.sqlite-*
 chatbot.sqlite-x-checkpoints-*.bin
